@@ -1,0 +1,2 @@
+# Strukturnoe-programmirovanie
+Структурное программирование
